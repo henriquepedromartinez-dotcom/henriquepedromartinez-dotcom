@@ -48,7 +48,7 @@
 <td width="80%">
 
 
-<img width="100%" src="https://raw.githubusercontent.com/henriquepedromartinez-dotcom/Pedro-Henrique-Martinez/snake-output/snake.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/pedrohmartinez/pedrohmartinez/snake-output/snake.svg" />
 
 
 </td>
@@ -68,8 +68,8 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/henriquepedromartinez-dotcom/Pedro-Henrique-Martinez/activity-graph-output/activity-graph.svg" height="200" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/henriquepedromartinez-dotcom/Pedro-Henrique-Martinez/languages-output/languages.svg" height="200" alt="languages graph" /> 
+  <img src="https://raw.githubusercontent.com/pedrohmartinez/pedrohmartinez/activity-graph-output/activity-graph.svg" height="200" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/pedrohmartinez/pedrohmartinez/languages-output/languages.svg" height="200" alt="languages graph" /> 
 </div>
 
 
